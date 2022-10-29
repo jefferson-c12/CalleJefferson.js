@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap");
+
+
+body {
+    background-color: #bfd2d9; 
+}
+
+.buttonProd {
+    width: 100%;
+    margin-right: 20%;
+    border-color: #002535;
+    border-radius: 4px;
+    background-color: #003851; 
+    color: #e5e5e5;
+}
+.table {
+    width: 100%;
+    margin-right: 20%;
+    border-color: #000000;
+    border-radius: 4px;
+    background-color: #09618a; 
+    color: #e5e5e5;
+}
+
+h2 {
+    font-size: 35px;
+    text-align: center;
+
+}
+
+h4 {
+    color: #e5e5e5; 
+}
+
+h5 {
+    color: #2d2d2d;
+    font-size: font-size xx-large;
+    margin-left: 20px;
+    text-align: center;
+    font-weight: 1000; 
+}
+
+.buttonRemove {
+    border: none;
+    padding: 0;
+}
+.ls_div {
+    display: table-row;
+}
+
+
